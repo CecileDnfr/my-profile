@@ -1,0 +1,60 @@
+
+body {
+	text-align: center;
+	background-color: #F7F9FC;
+}
+
+
+
+h1 {
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	color:red;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: bolder;
+	color: green;
+	text-align: center;
+
+}
+
+img {
+
+	width : 150px;
+	height : 180px;
+	border-radius: 50%;
+}
+
+p {
+
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
+
+a {
+	font-family: 'Pacifico', cursive;
+	text-decoration: none;
+	list-style:none;
+	padding: 0px;
+}
+
+
+ul>li{
+	font-family: 'Pacifico', cursive;
+	list-style: none;
+ }
+
+ .section {
+ 	background-color: white;
+ 	box-shadow: 1px 10px 30px rgb(220,220,220);
+ 	width: 700px;
+ 	margin: 20px auto;
+ 	padding: 20px 30px;
+ }
+
+#facebook {
+	font-family: 'Pacifico', cursive;
+}
